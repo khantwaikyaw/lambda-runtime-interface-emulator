@@ -1,4 +1,6 @@
-# To create runtime
+# AWS-Lambda-Runtime-Interface-Emulator
+
+## **Documentation v1.0.0**
 - Create a directory named **`.aws-lambda-rie`**.
 - And then create a file **`aws-lambda-rie`** without any file extension.
 - run the script file 
